@@ -30,6 +30,15 @@
          pip install certify    
          pip install webrowser  
          
+Project on LinearRegression
+ 
+It's fully done in colaboratory with the use of the concepts in machine learning 
+
+which includes
+#numpy
+#pandas
+#sklearn
+#load_boston 
       
           
 
